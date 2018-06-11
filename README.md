@@ -1,2 +1,2 @@
-# project-0
-My First Project om Github
+# 最初のプロジェクト
+ちょっとお試しでつくりました。
